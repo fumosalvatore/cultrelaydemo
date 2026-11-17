@@ -24,9 +24,3 @@ L'applicazione è progettata per funzionare in **modalità completamente offline
 - **Architettura:** MVVM
 
 ---
-
-## 🚀 Come Eseguire il Progetto
-
-1. Clona la repository sul tuo Mac:
-   ```bash
-   git clone [https://github.com/tuo-username/CultRelayDemo.git](https://github.com/tuo-username/CultRelayDemo.git)
